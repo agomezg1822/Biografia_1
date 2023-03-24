@@ -1,0 +1,21 @@
+.contenedor{
+    display: flex;
+    margin: 50px;
+}
+
+.izquierda{
+    width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.derecha{
+    margin: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: gray;
+}
